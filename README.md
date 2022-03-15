@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arvhol
+- 👀 I’m interested in algorithms, programming, network and a lot more!
+- 🌱 I’m currently learning to use Unix/Linux systems.
+- 💞️ I’m looking to collaborate on nothing :)
+- 📫 How to reach me arvid.t.holm@gmail.com
